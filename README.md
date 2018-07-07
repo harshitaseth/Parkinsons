@@ -15,7 +15,7 @@ python training_parkinson.py
     
     
 python testing_parkinson.py
-   - This test is used to test wheather the new generated feature performing similar to original features(UCI extracted features)
+   - This file is used to test whether the new generated feature performing similar to original features(UCI extracted features)
    - New extracted features are giving similar result so this can be concluded both the features contain similar information.
       
       
